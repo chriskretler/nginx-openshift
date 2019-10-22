@@ -1,0 +1,1 @@
+Sample nginx setup that successfully runs as a non-root user. This is useful for running in multi-tenanted kubernetes and openshift clusters.
